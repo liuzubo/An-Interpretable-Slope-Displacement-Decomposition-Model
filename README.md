@@ -1,4 +1,4 @@
-# An Interpretable Slope Displacement Decomposition Model Based on BPNN
+# An Interpretable Slope Displacement Decomposition Model
 The BPNN methods were employed to decompose slope displacement. This decomposition was carried out considering factors such as rainfall, blasting, creep, and excavation.
 
 
